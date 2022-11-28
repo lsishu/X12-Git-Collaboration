@@ -1,7 +1,7 @@
 # X12-Git-Collaboration
 
-**Objective:**
-Develop skill with collaborating with Github
+**Objectives:**
+* Develop skill with collaborating with Github
 
 **Acitivity:**
 Leah is the owner of this assignment.
